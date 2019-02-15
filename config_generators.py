@@ -13,6 +13,7 @@ import statsmodels.api as sm
 
 class base_config_generator(object):
 	def __init__(self, logger=None):
+		
 
 class CG_BOHB(base_config_generator):
 	def __init__(self, configspace, min_points_in_model = None,
