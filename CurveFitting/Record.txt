@@ -1,0 +1,6 @@
+Paper" Speeding Up Automatic Hyperparameter Optimization of Deep Neural Networks by Extrapolation of Learning Curves 
+related work:
+https://github.com/iwiwi/darkopt <https://github.com/iwiwi/darkopt>
+https://github.com/automl/pylearningcurvepredictor <https://github.com/automl/pylearningcurvepredictor>  
+
+Server: 10.150.144.59
